@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アステラリウム",
+  "base_artist": "*Luna feat. しほ , わかばやし",
+  "createdAt": "2025-12-20T02:48:09.710588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アステラリウム",
+      "artist": "*Luna feat. わかばやし & しほ",
+      "has_synced": true,
+      "path": "select/01_アステラリウム_Luna_feat._わかばやし_&_しほ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アステラリウム",
+      "artist": "*Luna feat. しほ , わかばやし",
+      "has_synced": false,
+      "path": "select/pl_01_アステラリウム_Luna_feat._しほ_,_わかばやし.txt"
+    }
+  ]
+}
